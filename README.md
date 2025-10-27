@@ -2,7 +2,9 @@
 Projeto extensionista universitário de um aplicativo de vendas para uma loja de doces, para a matéria de Desenvolvimento Mobile usando React Native com Expo Snack.
 
 #Páginas de cadastro:
+
 ##Página de login
+
 <img width="508" height="813" alt="image" src="https://github.com/user-attachments/assets/95504444-ddad-461c-b47a-d9c3517aba60" />
 
 ##Página de cadastro
